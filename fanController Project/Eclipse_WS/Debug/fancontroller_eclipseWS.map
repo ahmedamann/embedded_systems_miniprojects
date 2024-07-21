@@ -1,0 +1,749 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL/gpio.o (__do_copy_data)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                              ./MCAL/pwm.o (__umulhisi3)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                              ./HAL/lm35.o (__muluhisi3)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./HAL/lcd.o (__ltsf2)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              ./HAL/lm35.o (__divsf3)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./HAL/lcd.o (__fixunssfsi)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              ./HAL/lm35.o (__floatunsisf)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./HAL/lcd.o (__gtsf2)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./HAL/lcd.o (__mulsf3)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              ./HAL/lcd.o (itoa)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa.o) (__itoa_ncheck)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o) (__utoa_common)
+c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o) (strrev)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800060 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD ./MCAL/adc.o
+LOAD ./MCAL/gpio.o
+LOAD ./MCAL/pwm.o
+LOAD ./HAL/lcd.o
+LOAD ./HAL/lm35.o
+LOAD ./HAL/motor.o
+LOAD ./app.o
+START GROUP
+LOAD c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a
+LOAD c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x16bc
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000076        0x8 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000007e        0x4 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x000000000000007e                __vector_1
+                0x000000000000007e                __vector_12
+                0x000000000000007e                __bad_interrupt
+                0x000000000000007e                __vector_6
+                0x000000000000007e                __vector_3
+                0x000000000000007e                __vector_11
+                0x000000000000007e                __vector_13
+                0x000000000000007e                __vector_17
+                0x000000000000007e                __vector_19
+                0x000000000000007e                __vector_7
+                0x000000000000007e                __vector_5
+                0x000000000000007e                __vector_4
+                0x000000000000007e                __vector_9
+                0x000000000000007e                __vector_2
+                0x000000000000007e                __vector_15
+                0x000000000000007e                __vector_8
+                0x000000000000007e                __vector_14
+                0x000000000000007e                __vector_10
+                0x000000000000007e                __vector_16
+                0x000000000000007e                __vector_18
+                0x000000000000007e                __vector_20
+ .text          0x0000000000000082        0x0 ./MCAL/adc.o
+ .text          0x0000000000000082        0x0 ./MCAL/gpio.o
+ .text          0x0000000000000082        0x0 ./MCAL/pwm.o
+ .text          0x0000000000000082        0x0 ./HAL/lcd.o
+ .text          0x0000000000000082        0x0 ./HAL/lm35.o
+ .text          0x0000000000000082        0x0 ./HAL/motor.o
+ .text          0x0000000000000082        0x0 ./app.o
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .text          0x0000000000000082        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x0000000000000082                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_init
+                0x0000000000000082       0x7e ./MCAL/adc.o
+                0x0000000000000082                ADC_init
+ .text.ADC_readChannel
+                0x0000000000000100       0x6e ./MCAL/adc.o
+                0x0000000000000100                ADC_readChannel
+ .text.GPIO_setupPinDirection
+                0x000000000000016e       0xcc ./MCAL/gpio.o
+                0x000000000000016e                GPIO_setupPinDirection
+ .text.GPIO_setupPinDirectionR
+                0x000000000000023a       0x7c ./MCAL/gpio.o
+                0x000000000000023a                GPIO_setupPinDirectionR
+ .text.GPIO_writePin
+                0x00000000000002b6       0xd4 ./MCAL/gpio.o
+                0x00000000000002b6                GPIO_writePin
+ .text.GPIO_readPin
+                0x000000000000038a       0x64 ./MCAL/gpio.o
+                0x000000000000038a                GPIO_readPin
+ .text.GPIO_setupPortDirection
+                0x00000000000003ee       0x3a ./MCAL/gpio.o
+                0x00000000000003ee                GPIO_setupPortDirection
+ .text.GPIO_writePort
+                0x0000000000000428       0x3a ./MCAL/gpio.o
+                0x0000000000000428                GPIO_writePort
+ .text.GPIO_readPort
+                0x0000000000000462       0x3a ./MCAL/gpio.o
+                0x0000000000000462                GPIO_readPort
+ .text.PWM_Timer0_Start
+                0x000000000000049c       0x88 ./MCAL/pwm.o
+                0x000000000000049c                PWM_Timer0_Start
+ .text.LCD_init
+                0x0000000000000524      0x13a ./HAL/lcd.o
+                0x0000000000000524                LCD_init
+ .text.LCD_sendCommand
+                0x000000000000065e      0x3e0 ./HAL/lcd.o
+                0x000000000000065e                LCD_sendCommand
+ .text.LCD_displayCharacter
+                0x0000000000000a3e      0x3e0 ./HAL/lcd.o
+                0x0000000000000a3e                LCD_displayCharacter
+ .text.LCD_displayString
+                0x0000000000000e1e       0x54 ./HAL/lcd.o
+                0x0000000000000e1e                LCD_displayString
+ .text.LCD_moveCursor
+                0x0000000000000e72       0x44 ./HAL/lcd.o
+                0x0000000000000e72                LCD_moveCursor
+ .text.LCD_displayStringRowColumn
+                0x0000000000000eb6       0x34 ./HAL/lcd.o
+                0x0000000000000eb6                LCD_displayStringRowColumn
+ .text.LCD_intgerToString
+                0x0000000000000eea       0x48 ./HAL/lcd.o
+                0x0000000000000eea                LCD_intgerToString
+ .text.LCD_clearScreen
+                0x0000000000000f32       0x16 ./HAL/lcd.o
+                0x0000000000000f32                LCD_clearScreen
+ .text.LM35_getTemperature
+                0x0000000000000f48      0x172 ./HAL/lm35.o
+                0x0000000000000f48                LM35_getTemperature
+ .text.DCMOTOR_Init
+                0x00000000000010ba       0x38 ./HAL/motor.o
+                0x00000000000010ba                DCMOTOR_Init
+ .text.DCMOTOR_Rotate
+                0x00000000000010f2       0x78 ./HAL/motor.o
+                0x00000000000010f2                DCMOTOR_Rotate
+ .text.main     0x000000000000116a      0x106 ./app.o
+                0x000000000000116a                main
+ .text.libgcc.mul
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000001270        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000001270       0x1e c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                0x0000000000001270                __umulhisi3
+ .text.libgcc.div
+                0x000000000000128e        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x000000000000128e        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x000000000000128e        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x000000000000128e        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x000000000000128e        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x000000000000128e        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x000000000000128e       0x16 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                0x000000000000128e                __muluhisi3
+ .text.libgcc.div
+                0x00000000000012a4        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000000012a4        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000000012a4        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000000012a4        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000000012a4        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000000012a4        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.avr-libc.fplib
+                0x00000000000012a4        0xa c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00000000000012a4                __nesf2
+                0x00000000000012a4                __eqsf2
+                0x00000000000012a4                __cmpsf2
+                0x00000000000012a4                __ltsf2
+                0x00000000000012a4                __lesf2
+ .text.avr-libc.fplib
+                0x00000000000012ae        0x8 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000000000012ae                __divsf3
+ .text.avr-libc.fplib
+                0x00000000000012b6       0xdc c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000000000012d6                __divsf3x
+                0x00000000000012dc                __divsf3_pse
+ .text.avr-libc.fplib
+                0x0000000000001392       0x5e c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000000000001392                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000000000013f0       0x7a c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000000000013f0                __floatunsisf
+                0x00000000000013f4                __floatsisf
+ .text.avr-libc.fplib
+                0x000000000000146a       0x48 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x000000000000146a                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000000000014b2        0xc c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000000000014b2                __fp_inf
+ .text.avr-libc.fplib
+                0x00000000000014be        0x6 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000000000014be                __fp_nan
+ .text.avr-libc.fplib
+                0x00000000000014c4        0xe c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000000000014c4                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000000000014d2        0xe c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000000000014d2                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000000000014e0       0x22 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000000000014e0                __fp_round
+ .text.avr-libc.fplib
+                0x0000000000001502       0x44 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000001502                __fp_split3
+                0x0000000000001512                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000001546        0xe c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000000000001546                __fp_zero
+                0x0000000000001548                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000001554        0xa c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000001554                __gesf2
+                0x0000000000001554                __gtsf2
+ .text.avr-libc.fplib
+                0x000000000000155e        0x8 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000000000000155e                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000001566       0xd2 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000000000001584                __mulsf3x
+                0x000000000000158a                __mulsf3_pse
+ .text.avr-libc
+                0x0000000000001638       0x16 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x0000000000001638                __itoa
+                0x0000000000001638                itoa
+ .text.avr-libc
+                0x000000000000164e       0x16 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+                0x000000000000164e                __itoa_ncheck
+ .text.avr-libc
+                0x0000000000001664       0x34 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                0x0000000000001664                __utoa_ncheck
+                0x0000000000001666                __utoa_common
+ .text.avr-libc
+                0x0000000000001698       0x20 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x0000000000001698                strrev
+                0x00000000000016b8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000016b8        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x00000000000016b8                _exit
+                0x00000000000016b8                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000016b8        0x4 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000016bc                _etext = .
+
+.data           0x0000000000800060       0x38 load address 0x00000000000016bc
+                0x0000000000800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x0000000000800060        0x0 ./MCAL/adc.o
+ .data          0x0000000000800060        0x0 ./MCAL/gpio.o
+ .data          0x0000000000800060        0x0 ./MCAL/pwm.o
+ .data          0x0000000000800060        0x0 ./HAL/lcd.o
+ .data          0x0000000000800060        0x0 ./HAL/lm35.o
+ .data          0x0000000000800060        0x0 ./HAL/motor.o
+ .data          0x0000000000800060        0x0 ./app.o
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .data          0x0000000000800060        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.data*)
+ .data.DIRECTION_REG
+                0x0000000000800060        0x8 ./MCAL/gpio.o
+                0x0000000000800060                DIRECTION_REG
+ .data.WRITE_REG
+                0x0000000000800068        0x8 ./MCAL/gpio.o
+                0x0000000000800068                WRITE_REG
+ .data.READ_REG
+                0x0000000000800070        0x8 ./MCAL/gpio.o
+                0x0000000000800070                READ_REG
+ .data.prescaler
+                0x0000000000800078        0x1 ./MCAL/pwm.o
+                0x0000000000800078                prescaler
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0000000000800079       0x1e ./app.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800098                . = ALIGN (0x2)
+ *fill*         0x0000000000800097        0x1 
+                0x0000000000800098                _edata = .
+                0x0000000000800098                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800098        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000800098        0x0 ./MCAL/adc.o
+ .bss           0x0000000000800098        0x0 ./MCAL/gpio.o
+ .bss           0x0000000000800098        0x0 ./MCAL/pwm.o
+ .bss           0x0000000000800098        0x0 ./HAL/lcd.o
+ .bss           0x0000000000800098        0x0 ./HAL/lm35.o
+ .bss           0x0000000000800098        0x0 ./HAL/motor.o
+ .bss           0x0000000000800098        0x0 ./app.o
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .bss           0x0000000000800098        0x0 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.bss*)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000016bc                __data_load_start = LOADADDR (.data)
+                0x00000000000016f4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800098        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800098                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x0000000000000000     0x30cc
+ *(.stab)
+ .stab          0x0000000000000000      0x570 ./MCAL/adc.o
+ .stab          0x0000000000000570      0x6d8 ./MCAL/gpio.o
+                                        0x834 (size before relaxing)
+ .stab          0x0000000000000c48      0x348 ./MCAL/pwm.o
+                                        0x4e0 (size before relaxing)
+ .stab          0x0000000000000f90     0x1074 ./HAL/lcd.o
+                                       0x1080 (size before relaxing)
+ .stab          0x0000000000002004      0x4b0 ./HAL/lm35.o
+                                        0x7a4 (size before relaxing)
+ .stab          0x00000000000024b4      0x4bc ./HAL/motor.o
+                                        0x5ac (size before relaxing)
+ .stab          0x0000000000002970      0x75c ./app.o
+                                        0x954 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x3813
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x3813 ./MCAL/adc.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x30
+ *(.comment)
+ .comment       0x0000000000000000       0x30 ./MCAL/adc.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x31 ./MCAL/gpio.o
+ .comment       0x0000000000000030       0x31 ./MCAL/pwm.o
+ .comment       0x0000000000000030       0x31 ./HAL/lcd.o
+ .comment       0x0000000000000030       0x31 ./HAL/lm35.o
+ .comment       0x0000000000000030       0x31 ./HAL/motor.o
+ .comment       0x0000000000000030       0x31 ./app.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x4e6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.debug_abbrev   0x0000000000000000      0x4a3
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.debug_line     0x0000000000000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x196
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x196 c:/users/ahmed/onedrive/desktop/embedded systems/avr-gcc tool chain/avr-gcc/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(fancontroller_eclipseWS.elf elf32-avr)
+LOAD linker stubs
